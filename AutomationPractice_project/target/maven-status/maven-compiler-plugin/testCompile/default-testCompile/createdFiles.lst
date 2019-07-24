@@ -1,0 +1,10 @@
+com\Automatiom\Library\seleniumRepository.class
+com\Automation\Pages\D_SginIn_Page.class
+com\Automatiom\Library\seleniumRepository$1.class
+com\Automation\Pages\Calculator.class
+com\crossBrowser\VerfiyTitle.class
+com\Automation\Pages\B_Product_Page.class
+com\Automation\Pages\C_CheckOut_page.class
+com\Automatiom\Library\BasePage.class
+com\Automation\Test\Automation_Test.class
+com\Automation\Pages\A_Automation_HomePage.class
